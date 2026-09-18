@@ -15,12 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `examples/bfs-audit-report-example.md` showing the report format.
 - `publish.sh` helper for creating and pushing the GitHub repository.
 
-### Changed
-- **Portability fix:** the report output path no longer points at a sandbox-only
-  container path (`/mnt/user-data/outputs/`). The report is now written to the
-  audited project's root (or a user-specified path), so the skill works on local
-  machines, IDEs, and CLI agents.
-
 ### Notes
 - Requirements are summarized from Shopify's public documentation and can change;
   `SKILL.md` instructs the agent to re-fetch the canonical page when the bundled
