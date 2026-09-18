@@ -20,9 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   container path (`/mnt/user-data/outputs/`). The report is now written to the
   audited project's root (or a user-specified path), so the skill works on local
   machines, IDEs, and CLI agents.
-- Renamed the skill from `shopify-bfs-audit` to `bfs-audit` to avoid using a
-  Shopify trademark as the product name. Descriptive references to
-  "Built for Shopify" and "BFS" are retained, and the skill still triggers on them.
 
 ### Notes
 - Requirements are summarized from Shopify's public documentation and can change;
