@@ -1,0 +1,30 @@
+NOTICE
+======
+
+Third-party material and trademark attribution
+----------------------------------------------
+
+The MIT license in LICENSE covers the original contents of this repository —
+the skill instructions (`bfs-audit/SKILL.md`) and the documentation.
+
+It does NOT cover the following:
+
+`bfs-audit/references/bfs-requirements.md` summarizes the Built for Shopify
+requirements published by Shopify Inc. at:
+
+    https://shopify.dev/docs/apps/launch/built-for-shopify/requirements
+
+That summarized material is included here for reference, with attribution to
+Shopify Inc. as its source. It remains the property of Shopify Inc., and it is
+not covered by the MIT grant in LICENSE.
+
+Trademarks
+----------
+
+"Shopify" and "Built for Shopify" are trademarks of Shopify Inc.
+
+This project is an independent, unofficial tool. It is not affiliated with,
+endorsed by, or sponsored by Shopify Inc.
+
+The requirements summarized in this repository can change at any time. Always
+confirm against the canonical source linked above before relying on them.

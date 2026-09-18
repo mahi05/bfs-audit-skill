@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Note on third-party material: references/bfs-requirements.md summarizes the
-Built for Shopify requirements published by Shopify Inc. at
-https://shopify.dev/docs/apps/launch/built-for-shopify/requirements .
-That summarized material is included for reference with attribution, remains the
-property of Shopify Inc., and is NOT covered by the MIT grant above.
-"Shopify" and "Built for Shopify" are trademarks of Shopify Inc.
-This project is not affiliated with, endorsed by, or sponsored by Shopify Inc.

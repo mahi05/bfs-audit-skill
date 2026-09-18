@@ -161,4 +161,4 @@ zip -r bfs-audit.skill bfs-audit -x '*.DS_Store' -x '__MACOSX/*'
 
 [MIT](./LICENSE) © 2026 Mahesh Babariya.
 
-The checklist in `references/bfs-requirements.md` summarizes requirements published by Shopify Inc. That summarized material is included with attribution, remains the property of Shopify Inc., and is **not** covered by the MIT grant. "Shopify" and "Built for Shopify" are trademarks of Shopify Inc. This project is not affiliated with, endorsed by, or sponsored by Shopify Inc.
+The checklist in `references/bfs-requirements.md` summarizes requirements published by Shopify Inc. That summarized material is included with attribution, remains the property of Shopify Inc., and is **not** covered by the MIT grant. "Shopify" and "Built for Shopify" are trademarks of Shopify Inc. This project is not affiliated with, endorsed by, or sponsored by Shopify Inc. See [`NOTICE`](./NOTICE) for the full third-party attribution.
