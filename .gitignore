@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Logs
+*.log
+
+# Audit output produced by running the skill against a project
+bfs-audit-report.md
+audit-reports/
